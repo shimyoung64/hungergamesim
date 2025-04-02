@@ -1,0 +1,96 @@
+아르테미스 알렉산드레이아나
+C:\Users\mathe\Pictures\Camera Roll\Square\Artemis.png
+m
+stat-health=40
+stat-stamina=6
+stat-Dexterity=17
+stat-Agility=5
+stat-Marksmanship=15
+stat-Strength=10
+stat-Handiness=22
+stat-Constitution=19
+end
+아테나 랭캐스터
+C:\Users\mathe\Pictures\Camera Roll\Square\Athena2.png
+m
+stat-health=35
+stat-stamina=25
+stat-Dexterity=27
+stat-Agility=16
+stat-Marksmanship=3
+stat-Strength=8
+stat-Handiness=17
+stat-Constitution=4
+end
+아우렐리아 아르겐타
+C:\Users\mathe\Pictures\Camera Roll\Square\Aurelia.png
+m
+stat-health=26
+stat-stamina=28
+stat-Dexterity=29
+stat-Agility=23
+stat-Marksmanship=23
+stat-Strength=23
+stat-Handiness=28
+stat-Constitution=8
+end
+쥴라이 마틴
+C:\Users\mathe\Pictures\Camera Roll\Square\July.png
+m
+stat-health=50
+stat-stamina=17
+stat-Dexterity=17
+stat-Agility=3
+stat-Marksmanship=18
+stat-Strength=10
+stat-Handiness=5
+stat-Constitution=22
+end
+마리나 레이노넨
+C:\Users\mathe\Pictures\Camera Roll\Square\Marina.png
+m
+stat-health=43
+stat-stamina=8
+stat-Dexterity=29
+stat-Agility=7
+stat-Marksmanship=4
+stat-Strength=23
+stat-Handiness=18
+stat-Constitution=22
+end
+오필리아 팔란쉬
+C:\Users\mathe\Pictures\Camera Roll\Square\Ophelia.png
+m
+stat-health=23
+stat-stamina=27
+stat-Dexterity=28
+stat-Agility=24
+stat-Marksmanship=27
+stat-Strength=24
+stat-Handiness=10
+stat-Constitution=23
+end
+소피 판 코턴
+C:\Users\mathe\Pictures\Camera Roll\Square\Sophie.png
+m
+stat-health=46
+stat-stamina=15
+stat-Dexterity=21
+stat-Agility=16
+stat-Marksmanship=6
+stat-Strength=20
+stat-Handiness=22
+stat-Constitution=24
+end
+스테파니 라슨
+C:\Users\mathe\Pictures\Camera Roll\Square\Stephanie.png
+m
+stat-health=30
+stat-stamina=8
+stat-Dexterity=24
+stat-Agility=25
+stat-Marksmanship=16
+stat-Strength=12
+stat-Handiness=7
+stat-Constitution=15
+end
